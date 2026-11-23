@@ -1,0 +1,13 @@
+{
+  "name": "SweepWise",
+  "url": "https://apps.microsoft.com/detail/9P8W9MV5ZD66?cid=indiegoodies",
+  "description": "Find and safely remove duplicate files on Windows, with side-by-side preview and undo",
+  "category": "utilities",
+  "platforms": ["windows"],
+  "deal": "52% off, one-time purchase on the Microsoft Store",
+  "pricing": "one-time",
+  "price": { "regular": 24.99, "sale": 11.99, "currency": "USD" },
+  "discount": 52,
+  "endDate": "2026-12-02",
+  "icon": "https://store-images.s-microsoft.com/image/apps.38231.14079845162214581.c3e51e7f-456f-4a2e-8eb6-83f2ea67f74a.83dba16f-105d-4348-af9d-c6f6cf22f070?w=256&h=256"
+}
