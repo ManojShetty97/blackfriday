@@ -1,0 +1,13 @@
+{
+  "name": "GlidePrompt",
+  "url": "https://apps.microsoft.com/detail/9P5QVX0SN0CL?cid=indiegoodies",
+  "description": "Teleprompter for Windows that floats over Zoom, Teams and OBS and stays hidden from screen sharing",
+  "category": "productivity",
+  "platforms": ["windows"],
+  "deal": "20% off, one-time purchase on the Microsoft Store",
+  "pricing": "one-time",
+  "price": { "regular": 9.99, "sale": 7.99, "currency": "USD" },
+  "discount": 20,
+  "endDate": "2026-12-02",
+  "icon": "https://store-images.s-microsoft.com/image/apps.37541.14634309518800731.9cdf0fd1-c567-4bb9-b609-c97bd5992506.b88786f8-70e4-4853-a002-02f8c01e4c43?w=256&h=256"
+}
